@@ -6,7 +6,7 @@ Comparing MobileNetV3, InceptionV3, and ViT-B/16 Architectures for KOA classific
 
 ## Overview
 
-This project investigates the performance of modern deep learning architectures for **automated Knee Osteoarthritis (KOA) severity classification** from X-ray images.
+This project investigates the performance of modern deep learning architectures for **Knee Osteoarthritis (KOA) severity classification** from X-ray images.
 
 We benchmark **Convolutional Neural Networks (CNNs)** and **Vision Transformers (ViTs)** to analyze their representational capabilities in medical imaging tasks.
 
@@ -235,13 +235,9 @@ IEEE ICRITO 2025
 
 ---
 
-## Author
+## Author   & ## Co-Author
 
-**Shubham Kumar**
-
-## Co-Author
-
-**Aanchal Gupta**
+**Shubham Kumar**   **Aanchal Gupta**
 
 AI Researcher | Bioinformatics | Medical AI
  
