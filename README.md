@@ -235,9 +235,9 @@ IEEE ICRITO 2025
 
 ---
 
-## Author   & ## Co-Author
+## Author   &  Co-Author
 
-**Shubham Kumar**   **Aanchal Gupta**
+**Shubham Kumar** &  **Aanchal Gupta**
 
 AI Researcher | Bioinformatics | Medical AI
  
