@@ -1,7 +1,6 @@
 # Comparing-pre-trained-CNNs-and-Transformer-for-Knee-Osteoarthritis-Severity-Detection-
-Comparing MobileNetV3, InceptionV3, and ViT-B/16 Architectures for KOA classification.
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner_KOA.png" width="100%">
 </p>
 
 ## Overview
